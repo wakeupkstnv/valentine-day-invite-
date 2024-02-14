@@ -20,7 +20,7 @@ Simply open the `index.html` file in any modern web browser to view the page and
 
 ## Author
 Wakeupkstnv - the developer of this project
-thx for @shoqqan (big luv my brotha!!!)
+thx for @shoqqan (big luv my brotha!!!) link : https://github.com/shoqqan
 
 ## Acknowledgments
 
