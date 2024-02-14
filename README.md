@@ -1,6 +1,4 @@
-# Romantic Valentine's Day Meeting
-
-![Valentine](valentine.jpg)
+# Romantic Valentine's Day Meeting 💕
 
 This project represents a web page describing the idea of a romantic meeting in honor of Valentine's Day. The page includes a visual representation of an elegant envelope, an invitation text, a "Yep!" response button, and a "Nope!" reset button.
 
